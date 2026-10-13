@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reference Motion"
+  short_description: "Product films from motion references"
+  default_prompt: "Use $reference-motion to adapt this video's motion style to my product and deliver a finished film."
+policy:
+  allow_implicit_invocation: true

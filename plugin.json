@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "reference-motion",
+  "version": "0.1.0",
+  "description": "Turn a motion reference into a product-specific film with deterministic rendering and verified delivery."
+}

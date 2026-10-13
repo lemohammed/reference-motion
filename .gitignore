@@ -1,0 +1,6 @@
+node_modules/
+runs/
+.DS_Store
+*.pending.mp4
+.env
+.env.*
