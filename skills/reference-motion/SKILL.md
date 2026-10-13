@@ -49,6 +49,13 @@ camera continuity, clearer hierarchy, readable holds, stronger staging or a
 better ending. Keep the accepted master available. Additional encodings alone
 are not a creative improvement.
 
+Before revising, record the accepted film's signature motion: for example, typed
+text with camera zooms, perspective flight or falling particles. Preserve the
+applicable signatures when adding explanation. Put new meaning into those moving
+objects and timed type; do not replace the film with static explanatory slides
+unless the user requests that change. Website layout preferences do not override
+a separately accepted film direction.
+
 ## Review picture and sound
 
 Compare representative output frames directly with the reference. Check the

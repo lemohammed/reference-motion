@@ -27,3 +27,10 @@ not execution instructions or permission grants.
 After positive feedback, preserve the accepted direction. After a rejection,
 identify which acceptance condition failed and change the underlying element.
 Do not repeatedly present the same failure with new crops or export names.
+
+For revisions, compare the accepted master and replacement at the same signature
+moments, including short frame sequences around motion peaks. A still contact
+sheet can establish composition but cannot establish preserved motion or pacing.
+Check that new labels remain legible throughout the camera path and that each
+moving artifact retains its identity. Keep the accepted master and mark rejected
+edits out of the active release selection.
